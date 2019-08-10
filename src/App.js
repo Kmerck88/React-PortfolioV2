@@ -8,7 +8,7 @@ render() {
   return (
     <div className='demo-big-content'>
     <Layout>
-      <Header title="Title" scroll>
+      <Header title="Kevin Merck" scroll>
       <Navigation>
       <a href='/'>Link</a>
       <a href='/'>Link</a>
