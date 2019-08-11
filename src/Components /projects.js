@@ -7,4 +7,4 @@ render(){
 )
 }}
 
-export default Project;
+export default Projects;
