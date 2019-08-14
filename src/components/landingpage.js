@@ -20,21 +20,25 @@ class Landing extends Component {
 							
 							<p>HTML/CSS | JavaScript | React | NodeJS | Express | MongoDB </p>
 						
-							<div className="social media-links">
+							<div className="social-links">
 							
 							{/*Linkedin*/}
 							<a href="http://google.com" rel="noopener noreferrer" target="blank">
-							<i class="fab fa-linkedin-in" arial-hidden="true"/>
+							<i class="fa fa-linkedin-square" arial-hidden="true"/>
 							</a>
 
 							{/*GitHub*/}
 							<a href="http://google.com" rel="noopener noreferrer" target="blank">
-							<i class="fa fa-github"  arial-hidden="true"/>
+							<i class="fa fa-github-square"  arial-hidden="true"/>
 							</a>
 
 							{/*CodePen */}
 							<a href="http://google.com" rel="noopener noreferrer" target="blank">
-							<i className= "fa fa-codepen"  arial-hidden="true"/>
+							<i className="fa fa-codepen"  arial-hidden="true"/>
+							</a>
+									{/*Twitter*/}
+									<a href="http://google.com" rel="noopener noreferrer" target="blank">
+							<i className="fa fa-twitter-square"  arial-hidden="true"/>
 							</a>
 							
 							</div>
